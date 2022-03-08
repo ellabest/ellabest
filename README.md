@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning wed development
 - 💞️ I'm looking up to be a font-end developer
-- 📫 How to reach me omaguelizabethoji
+- 📫 How to reach me ......
 
 <!---
 ellabest/ellabest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
